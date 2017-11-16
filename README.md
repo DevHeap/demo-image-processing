@@ -12,7 +12,7 @@ Requirements:
 Usage:
 
 ```
-	$ python3 filename1.jpg filename2.png
+	$ python3 image_split.py filename1.jpg filename2.png
 ```
 
 You can specify any number of images. Splitted images will be saved to the same directory as `r_filename1.jpg`, `g_filename1.jpg`, `b_filename1.jpg`.
